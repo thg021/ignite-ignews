@@ -12,15 +12,15 @@
     margin: 5rem auto 0;
 
         
-   a {
-        display: block;
+    a {
+            display: block;
 
 
-        & + a {
-            margin-top: 2rem;
-            padding-top: 2rem;
-            border-top: 1px solid var(--gray-700);
-        }
+            & + a {
+                margin-top: 2rem;
+                padding-top: 2rem;
+                border-top: 1px solid var(--gray-700);
+            }
    
         time {
             font-size: 1rem;
